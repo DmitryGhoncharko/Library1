@@ -1,0 +1,16 @@
+.container-context{
+    width: 1280px;
+    flex-direction: column;
+}
+
+.container-create{
+    width: 1280px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-create{
+    margin-bottom: 40px;
+}

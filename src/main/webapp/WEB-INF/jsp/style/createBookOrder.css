@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.container-main{
+    width: 100%;
+}
+
+.container-context{
+    width: 1280px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header-name{
+    margin-bottom: 40px;
+}

@@ -1,0 +1,18 @@
+
+.nav-context{
+    flex-direction: row;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-rightside-inner{
+    align-items: center;
+    justify-content: end;
+}
+
+.container-lang{
+    margin-right: 30px;
+}

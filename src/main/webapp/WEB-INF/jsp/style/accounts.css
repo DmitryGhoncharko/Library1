@@ -1,0 +1,18 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.container{
+    display: flex;
+}
+
+.container-main{
+    width: 100%;
+}
+
+.container-context{
+    width: 1280px;
+    flex-direction: column;
+}
